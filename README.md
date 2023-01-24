@@ -40,3 +40,5 @@ This script uses the YouTube Data API to retrieve the statistics for a specific 
 Keep in mind that the YouTube Data API has a quota limit, so you may need to keep an eye on your usage to avoid exceeding the limit.
 
 (Special thanks to Aryan Irani for this direct method) 
+
+### By starring this repository, you'll be able to stay updated on any new features and improvements we make, and you'll also be showing your support for our project. We appreciate your interest and hope you find our tool useful. 
